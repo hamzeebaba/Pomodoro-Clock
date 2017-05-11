@@ -1,0 +1,10 @@
+body{
+  background-image:url("http://www.lifeofpix.com/wp-content/uploads/2016/02/Life-of-Pix-free-stock-wall-clock-time-LEEROY.jpg");
+  background-size:50%;
+  color:white;
+  font-style:italic;
+  background-attachment:fixed;
+}
+h2{
+  display:inline;
+}
